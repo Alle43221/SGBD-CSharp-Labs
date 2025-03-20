@@ -1,39 +1,49 @@
 using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.Configuration;
+
 using System.Data;
-using System.Configuration;
-using System.Collections.Specialized;
 
 namespace WinFormsApp1
 {
     public partial class ProducatoriForm : Form
     {
-        Config Config = new Config();
         SqlDataAdapter parentAdapter;
         SqlDataAdapter childAdapter;
         DataSet dataset = new DataSet();
 
         BindingSource parentBS = new BindingSource();
         BindingSource childBS = new BindingSource();
+        private readonly IConfiguration _configuration;
 
-        string connectionString = ConfigurationManager.AppSettings.Get("connectionString");
-        string selectParent = ConfigurationManager.AppSettings.Get("selectParent");
-        string selectChild = ConfigurationManager.AppSettings.Get("selectChild");
-        string nameParent = ConfigurationManager.AppSettings.Get("nameParent");
-        string nameChild = ConfigurationManager.AppSettings.Get("nameChild");
-        string parentID = ConfigurationManager.AppSettings.Get("parentID");
-        string parentReference = ConfigurationManager.AppSettings.Get("parentReference");
-        string childID = ConfigurationManager.AppSettings.Get("childID");
-        string deleteChild = ConfigurationManager.AppSettings.Get("deleteChild");
+        string connectionString;
+        string selectParentQuery;
+        string selectChildQuery;
+        string deleteChildQuery;
+        string nameParent;
+        string nameChild;
+        string childID;
+        string parentID;
+        string parentReference;
 
 
-
-        public ProducatoriForm()
+        public ProducatoriForm(IConfiguration configuration)
         {
+            _configuration = configuration;
             InitializeComponent();
+
         }
 
         private void LoadDb()
         {
+            connectionString = _configuration.GetConnectionString("DefaultConnection");
+            selectParentQuery = _configuration["Queries:SelectParent"];
+            selectChildQuery = _configuration["Queries:SelectChild"];
+            deleteChildQuery = _configuration["Queries:DeleteChild"];
+            nameParent = _configuration["TableNames:NameParent"];
+            nameChild = _configuration["TableNames:NameChild"];
+            childID = _configuration["ColumnNames:ChildID"];
+            parentID = _configuration["ColumnNames:ParentID"];
+            parentReference = _configuration["ColumnNames:ParentReference"];
 
             try
             {
@@ -43,24 +53,24 @@ namespace WinFormsApp1
                     connection.Open();
                     //MessageBox.Show("Status: " + connection.State);
 
-                    parentAdapter = new SqlDataAdapter(Config.selectParent, connection);
-                    childAdapter = new SqlDataAdapter(Config.selectChild, connection);
+                    parentAdapter = new SqlDataAdapter(selectParentQuery, connection);
+                    childAdapter = new SqlDataAdapter(selectChildQuery, connection);
 
-                    parentAdapter.Fill(dataset, Config.nameParent);
-                    childAdapter.Fill(dataset, Config.nameChild);
+                    parentAdapter.Fill(dataset, nameParent);
+                    childAdapter.Fill(dataset, nameChild);
                     DataColumn[] PrimaryKeyColumns = new DataColumn[1];
-                    PrimaryKeyColumns[0] = dataset.Tables[Config.nameParent].Columns[Config.parentID];
-                    dataset.Tables[Config.nameParent].Columns[0].AutoIncrement = true;
+                    PrimaryKeyColumns[0] = dataset.Tables[nameParent].Columns[parentID];
+                    dataset.Tables[nameParent].Columns[0].AutoIncrement = true;
 
-                    PrimaryKeyColumns[0] = dataset.Tables[Config.nameChild].Columns[Config.childID];
-                    dataset.Tables[Config.nameChild].Columns[0].AutoIncrement = true;
+                    PrimaryKeyColumns[0] = dataset.Tables[nameChild].Columns[childID];
+                    dataset.Tables[nameChild].Columns[0].AutoIncrement = true;
 
 
-                    parentBS.DataSource = dataset.Tables[Config.nameParent];
+                    parentBS.DataSource = dataset.Tables[nameParent];
                     dataGridViewProducator.DataSource = parentBS;
 
-                    DataColumn parentPK = dataset.Tables[Config.nameParent].Columns[Config.parentID];
-                    DataColumn childFK = dataset.Tables[Config.nameChild].Columns[Config.parentReference];
+                    DataColumn parentPK = dataset.Tables[nameParent].Columns[parentID];
+                    DataColumn childFK = dataset.Tables[nameChild].Columns[parentReference];
                     DataRelation relation = new DataRelation("fk_parent_child", parentPK, childFK);
                     dataset.Relations.Add(relation);
 
@@ -87,11 +97,11 @@ namespace WinFormsApp1
 
             try
             {
-                using (SqlConnection connection = new SqlConnection(Config.connectionString))
+                using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     connection.Open();
                     // Initialize the SqlDataAdapter with a SELECT statement (this is required for SqlCommandBuilder to generate commands)
-                    SqlDataAdapter childAdapter = new SqlDataAdapter(Config.selectChild, connection);
+                    SqlDataAdapter childAdapter = new SqlDataAdapter(selectChildQuery, connection);
 
                     // Initialize SqlCommandBuilder with the childAdapter
                     SqlCommandBuilder commandBuilder = new SqlCommandBuilder(childAdapter);
@@ -99,7 +109,7 @@ namespace WinFormsApp1
 
                     this.Validate();
                     childBS.EndEdit();
-                    childAdapter.Update(dataset, Config.nameChild);
+                    childAdapter.Update(dataset, nameChild);
                 }
 
             }
@@ -110,38 +120,11 @@ namespace WinFormsApp1
             }
         }
 
-        private void Modifica_Click_1(object sender, EventArgs e)
-        {
-            try
-            {
-                using (SqlConnection connection = new SqlConnection(Config.connectionString))
-                {
-                    connection.Open();
-                    // Initialize the SqlDataAdapter with a SELECT statement (this is required for SqlCommandBuilder to generate commands)
-                    SqlDataAdapter childAdapter = new SqlDataAdapter(Config.selectChild, connection);
-
-                    // Initialize SqlCommandBuilder with the childAdapter
-                    SqlCommandBuilder commandBuilder = new SqlCommandBuilder(childAdapter);
-
-
-                    this.Validate();
-                    childBS.EndEdit();
-                    childAdapter.Update(dataset, Config.nameChild);
-                }
-
-            }
-            catch (Exception ex)
-            {
-                // Handle other general exceptions
-                MessageBox.Show("Error executing update command: " + ex.Message);
-            }
-        }
-
         private void Delete_Click_1(object sender, EventArgs e)
         {
             try
             {
-                
+
                 // Ensure the user wants to delete the record
                 DialogResult result = MessageBox.Show("Are you sure you want to delete this record?", "Confirm Delete", MessageBoxButtons.YesNo);
                 if (result == DialogResult.Yes)
@@ -151,22 +134,22 @@ namespace WinFormsApp1
                     DataRowView selectedRow = (DataRowView)childBS.Current; // Get the current row being edited
                     if (selectedRow != null)
                     {
-                        
+
                         // Delete the selected row from the DataSet
                         selectedRow.Row.Delete();  // Mark the row for deletion
 
-                        using (SqlConnection connection = new SqlConnection(Config.connectionString))
+                        using (SqlConnection connection = new SqlConnection(connectionString))
                         {
                             connection.Open();
-                            SqlDataAdapter childAdapter = new SqlDataAdapter(Config.selectChild, connection);
-                            SqlCommand deleteCommand = new SqlCommand(Config.deleteChild, connection);
-                            deleteCommand.Parameters.Add("@" + Config.childID, SqlDbType.Int, 4, Config.childID);
+                            SqlDataAdapter childAdapter = new SqlDataAdapter(selectChildQuery, connection);
+                            SqlCommand deleteCommand = new SqlCommand(deleteChildQuery, connection);
+                            deleteCommand.Parameters.Add("@" + childID, SqlDbType.Int, 4, childID);
                             childAdapter.DeleteCommand = deleteCommand;
 
                             // Initialize SqlCommandBuilder with the childAdapter
                             SqlCommandBuilder commandBuilder = new SqlCommandBuilder(childAdapter);
 
-                            childAdapter.Update(dataset, Config.nameChild);
+                            childAdapter.Update(dataset, nameChild);
 
                         }
                     }
@@ -179,5 +162,31 @@ namespace WinFormsApp1
             }
         }
 
+        private void Modifica_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+                    // Initialize the SqlDataAdapter with a SELECT statement (this is required for SqlCommandBuilder to generate commands)
+                    SqlDataAdapter childAdapter = new SqlDataAdapter(selectChildQuery, connection);
+
+                    // Initialize SqlCommandBuilder with the childAdapter
+                    SqlCommandBuilder commandBuilder = new SqlCommandBuilder(childAdapter);
+
+
+                    this.Validate();
+                    childBS.EndEdit();
+                    childAdapter.Update(dataset, nameChild);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                // Handle other general exceptions
+                MessageBox.Show("Error executing update command: " + ex.Message);
+            }
+        }
     }
 }

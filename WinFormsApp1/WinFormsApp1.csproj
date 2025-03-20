@@ -19,11 +19,10 @@
 
   <ItemGroup>
     <None Remove="App.config" />
-    <None Remove="jsconfig1.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="jsconfig1.json">
+    <Content Include="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
@@ -32,6 +31,8 @@
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
     <PackageReference Include="Microsoft.Data.SqlClient.SNI.runtime" Version="6.0.2" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="9.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.3" />
   </ItemGroup>
 
 </Project>
