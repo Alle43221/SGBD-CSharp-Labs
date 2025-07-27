@@ -1,0 +1,196 @@
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.exe
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.deps.json
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.runtimeconfig.json
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.pdb
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.AssemblyReference.cache
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPr.95D9A112.Up2Date
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\refint\ExamenPractic.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.pdb
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ref\ExamenPractic.dll
+C:\Users\Alexandra\Desktop\Facultate anul 2\Semestrul 2\SGBD\Laborator\ExamenPractic\ExamenPractic\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.sourcelink.json
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.exe
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.deps.json
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.runtimeconfig.json
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.pdb
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.AssemblyReference.cache
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.Form1.resources
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.GenerateResource.cache
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.AssemblyInfoInputs.cache
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.AssemblyInfo.cs
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.CoreCompileInputs.cache
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.sourcelink.json
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPr.95D9A112.Up2Date
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\refint\ExamenPractic.dll
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.pdb
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.genruntimeconfig.cache
+C:\Users\Alle\Desktop\Cofetarie\ExamenPractic\obj\Debug\net9.0-windows\ref\ExamenPractic.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.exe
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.deps.json
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.runtimeconfig.json
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ExamenPractic.pdb
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.AssemblyReference.cache
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.Form1.resources
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.GenerateResource.cache
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.AssemblyInfoInputs.cache
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.AssemblyInfo.cs
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.csproj.CoreCompileInputs.cache
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.sourcelink.json
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPr.95D9A112.Up2Date
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\refint\ExamenPractic.dll
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.pdb
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ExamenPractic.genruntimeconfig.cache
+C:\Users\Alle\Desktop\Biscuiti\ExamenPractic\obj\Debug\net9.0-windows\ref\ExamenPractic.dll
