@@ -1,0 +1,12 @@
+// creati un windows form master-detail care permite cautarea premiilor pentru un tip de premii date. Form-ul ar trebui sa contina
+// cel putin urmatoarele componente: un grid(combobox sau list box) pentru afisarea tipurilor de premii, un grid pentru toate
+// premiile tipului de premii selectate si un buton pentru salvarea premiilor adaugate/ sterse/ modificate.
+// modul in care adaugati / stergeti/ modificati un premiu ramane la latitudinea voastra. un premiu are 
+// nume, sponsor, an, numele catigatorului, varsta. un tip de premiu are un nume si poate fi anual, poate avea un status(activ, inactiv- nu se mai acorda)
+// si un numar maxim de castigatori pe an( de exemplu intr-un an nu poate fi dat la mai mult de x persoane
+
+//scrieti un sql care returneaza toate tipurile de premii pentru care exista minim 3 castigatori
+
+// scrieti un sql care returneaza varsta medie a castigatorilor sub varsta de 18 ani
+
+// creati un index si pentru una dintre interogarile de mai sus
