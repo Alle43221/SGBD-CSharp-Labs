@@ -14,6 +14,8 @@ The goal of this project is to demonstrate:
 - Applying core concepts studied in Database Management Systems courses.
 - Using a parent-child table template which can be later adapted for other data.
 
+- Upon selection in the left table, the right table is populated with the associated entries from the child table.
+
 ---
 
 ## Technologies Used
